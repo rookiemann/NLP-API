@@ -10,10 +10,8 @@ import spacy
 import RAKE
 import time
 from heapq import nlargest
-import sqlite3
 import collections
 import os.path
-from snippets.models import Snippet
 from os import path
 import os
 import sys
